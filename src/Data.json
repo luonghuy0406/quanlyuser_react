@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "name":"huy",
+        "tel":"123123",
+        "permission":1
+    },
+    {
+        "id":"2",
+        "name":"huy2",
+        "tel":"123123555",
+        "permission":0
+    },
+    {
+        "id":"3",
+        "name":"huy356",
+        "tel":"12312357656",
+        "permission":0
+    }
+]
